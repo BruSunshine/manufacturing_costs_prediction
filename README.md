@@ -1,3 +1,6 @@
+[![Generic badge](https://img.shields.io/badge/Offline_View-Open-Blue.svg)](https://nbviewer.jupyter.org/github/BruSunshine/manufacturing_costs_prediction/blob/main/project_eda.ipynb)
+
+
 ## What does this project do ?
 ----- 
 It is a cost prediction model for parts produced in a manufacturing workshop.
