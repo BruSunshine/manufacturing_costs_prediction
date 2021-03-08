@@ -1,4 +1,8 @@
-[![Generic badge](https://img.shields.io/badge/Offline_View-Open-Blue.svg)](https://nbviewer.jupyter.org/github/BruSunshine/manufacturing_costs_prediction/blob/main/project_eda.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BruSunshine/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/) 
+Exploratory Data Analysis
+[![Generic badge](https://img.shields.io/badge/Offline_View-Open-Blue.svg)](https://nbviewer.jupyter.org/github/BruSunshine/manufacturing_costs_prediction/blob/main/project_eda.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BruSunshine/manufacturing_costs_prediction/blob/main/project_eda.ipynb)
+
+Machine Learning
+[![Generic badge](https://img.shields.io/badge/Offline_View-Open-Blue.svg)](https://nbviewer.jupyter.org/github/BruSunshine/manufacturing_costs_prediction/blob/main/project_ml.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BruSunshine/manufacturing_costs_prediction/blob/main/project_ml.ipynb)
 
 ## What does this project do ?
 ----- 
